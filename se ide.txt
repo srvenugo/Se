@@ -1,0 +1,45 @@
+Se IDE
+1.id or 
+2.name
+3.xpath
+4.css
+5.linktext
+
+In Se Ide, parameters to pass
+a) Command - select from dropdown
+b) Target - Locator -  ID or Name
+c) In the absence of Id or name, we go for xpath
+xpath- (a) Absolute xpath (has only tag name); (b) relative xpath-
+https://www.guru99.com/xpath-selenium.html 	
+in xpath browser, for single attribute 
+//input@id='xxx'
+//input@name='xyz'
+multiple attribute - logical & and logical or
+'contains' used for dynamic elements ex: dynamic password
+//tagname contains 'xxx'
+
+xpath access - adv concept of xpath 
+-following
+-preceeding
+
+css cascading style sheet
+-id - #, 
+, contains, start with, end with
+
+Create New Package, New Project in Eclipse IDE
+
+right click in Eclipse proj > Buid Path > Configure Build Path > Libraries > add External Jar > 
+
+package 
+import 
+
+
+Error:  Unknown issue
+Bug : 
+
+Create a new Package, Project, Class and open gmail and input login id, 
+click enter, enter password and click enter
+
+18/07/18 - create an eclipse snippet for getting 
+github.com/bprem
+	
