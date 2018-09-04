@@ -1,0 +1,7 @@
+C:\\Users\\Srinivas\\Downloads\\Tools\\Autoit  		-	Auto IT
+
+C:\\Users\\Srinivas\\Downloads\\log4j-1.2.17\\log4j
+
+C:\Users\Srinivas\Downloads\jars\selenium-server-standalone-2.53.1
+
+C:\\Users\\Srinivas\\Downloads\\Drivers\\chromedriver_win32\\chromedriver
